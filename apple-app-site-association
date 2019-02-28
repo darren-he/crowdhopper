@@ -1,0 +1,11 @@
+{
+	"applinks": {
+		"apps": [],
+		"details": [
+			{
+				"appID": "NUC37695K8.com.crowdhopper.CrowdHopper",
+				"paths": [ "*"]
+			}
+		]
+	}
+}
